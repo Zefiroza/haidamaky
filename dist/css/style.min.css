@@ -531,10 +531,13 @@ template {
     z-index: 1;
     margin-bottom: 50px
 }
-
+.about__text_title {
+    text-align: center;
+}
 .about__requirements {
     margin-left: 18px
 }
+
 
 .about__iframe {
     width: 60%;
